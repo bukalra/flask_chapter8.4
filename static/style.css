@@ -1,0 +1,26 @@
+h1 {
+    background-color: grey;
+  }
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.first {
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+.second {
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(17, 17, 92);
+    margin-top: 30px;
+  }
+
+.third {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: black;
+  }
